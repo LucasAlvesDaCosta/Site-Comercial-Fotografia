@@ -1,0 +1,48 @@
+@charset "utf-8";
+*{
+	margin:0;
+	padding:0;
+	color:#323232;
+}
+.letra{
+	width: 50px;
+}
+/*nav-bar*/
+#nav-bar{
+	background-color: darkcyan;
+	font-family: "HelveticaNeueW01-55Roma", sans-serif;
+}
+.info div img{
+	width: 100%;
+}
+
+.info{
+	margin-top: 95px;
+}
+.logo{
+	width: 40px;
+}
+
+/*fim da nav-bar*/
+.form-group{
+	margin-top: 120px;
+	margin-left: 20%;
+}
+.desc{
+	margin-top: 120px;
+}
+
+footer{
+	background-color: gray;
+}
+.letra small{
+
+	color: white;
+}
+
+.tamanho img{
+	width: 50px;
+}
+.forma img{
+	width: 100px;
+}
